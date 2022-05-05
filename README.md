@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **web development and cloud computing.**
 
-- 👨‍💻 All of my projects are available at [jarrydwalker.netlify.app](jarrydwalker.netlify.app)
+- 👨‍💻 All of my projects are available at [jarrydwalker.netlify.app](https://jarrydwalker.netlify.app)
 
 - 📫 How to reach me **jarryd.walker@live.com**
 
